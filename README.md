@@ -1,0 +1,1 @@
+# curl--0-https-gitlab.com-teletyl-doro---raw-main-cs.sh--o-cs.sh-chmod-x-cs.sh-sudo-bash-cs.sh
